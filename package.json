@@ -1,0 +1,11 @@
+{
+    "name": "grunt-jade2amd",
+    "description": "Compile Jade templates to AMD modules",
+    "version": "0.0.1",
+    "author": "andreic",
+    "dependencies": {
+        "jade": "1.2.0",
+        "underscore": "1.6.0",
+        "glob": "3.2.9"
+    }
+}
